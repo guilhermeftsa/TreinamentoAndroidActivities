@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TreinamentoAndroidStudioNATI</string>
+    <string name="botao1">Botao 1</string>
+    <string name="botao2">Botao 2</string>
+    <string name="botao3">Botao 3</string>
+    <string name="label_sair">Sair</string>
+    <string name="label_entrar">Entrar</string>
+</resources>
